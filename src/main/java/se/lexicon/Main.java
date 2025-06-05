@@ -1,8 +1,7 @@
 package se.lexicon;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import se.lexicon.Config.ComponentScanConfig;
-import se.lexicon.data_access.StudentDao;
+import se.lexicon.config.ComponentScanConfig;
 import se.lexicon.util.UserInputService;
 
 public class Main {
